@@ -61,18 +61,23 @@ Running the Game Demo
 First, create a folder where you can add all 4 of the files and run them on an appropriate Python software (done on Spyder in the demo).
 
 Human vs Human
+
 <img width="139" alt="image" src="https://github.com/user-attachments/assets/8c09555d-483d-431f-9e78-6925f37ce071">
 
 Human vs Random AI
+
 <img width="148" alt="image" src="https://github.com/user-attachments/assets/cc44c26c-2678-4662-b172-70dad9c16576">
 
 Human vs Smart AI (Look Ahead set to 3 in this case and tiebreak strategy set to Random)
+
 <img width="197" alt="image" src="https://github.com/user-attachments/assets/12933f6a-ee02-423d-9b10-af9cd497d137">
 
 Smart AI vs Random AI (We could also do Random AI vs Random AI or Smart AI vs Smart AI)
+
 <img width="205" alt="image" src="https://github.com/user-attachments/assets/2b9f7a06-7716-4a9d-8ccd-8999bff6eb6e">
 
 As expected, the Smart AI wins
+
 <img width="217" alt="image" src="https://github.com/user-attachments/assets/d0802bff-3667-41fa-b923-c581425edf7f">
 
 ## License

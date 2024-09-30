@@ -13,14 +13,14 @@ This project implements a Connect Four game in Python, which can be played by tw
 
 Connect Four is a classic two-player connection game where players take turns dropping checkers into a vertical board. The objective is to be the first to form a horizontal, vertical, or diagonal line of four checkers.
 
-# Features
+## Features
 Human vs. Human: Play the classic game of Connect Four between two human players.
 Human vs. AI: Challenge a computer AI player with adjustable difficulty (based on the depth of lookahead).
 Adjustable Board Size: You can create a custom-sized board.
 Random Player: An AI player that selects moves randomly.
 Strategic AI Player: Uses lookahead and different tie-breaking strategies to choose the optimal moves.
 
-# Game Setup
+## Game Setup
 Board: The game is played on a rectangular grid. The default board size is 6 rows by 7 columns, but the dimensions can be customized during board initialization.
 
 Players: Two players take turns placing their checkers (either 'X' or 'O') into the board's columns. The first player to get four checkers in a row (horizontally, vertically, or diagonally) wins the game.

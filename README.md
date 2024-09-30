@@ -56,7 +56,7 @@ max_score_column: Chooses the best column based on scores. If multiple columns h
 scores_for: Returns a score for each column based on the current board state and future moves.
 next_move: Returns the best move based on the calculated scores.
 
-Running the Game Demo
+## Running the Game Demo
 
 First, create a folder where you can add all 4 of the files and run them on an appropriate Python software (done on Spyder in the demo).
 
